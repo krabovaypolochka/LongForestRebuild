@@ -1,0 +1,4 @@
+repository "long forest_rebuild@avanol05@cloud"
+  path "/"
+    br "/main"
+    co "/main"
